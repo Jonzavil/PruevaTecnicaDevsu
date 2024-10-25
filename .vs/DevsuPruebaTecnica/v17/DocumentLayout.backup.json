@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jszaa\\Desktop\\DevsuPruebaTecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE5056C-B3B1-4E3F-BDE0-CF755E5C4790}|MicroservicioClientePersona\\MicroservicioClientePersona\\MicroservicioClientePersona.csproj|c:\\users\\jszaa\\desktop\\devsupruebatecnica\\microservicioclientepersona\\microservicioclientepersona\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE5056C-B3B1-4E3F-BDE0-CF755E5C4790}|MicroservicioClientePersona\\MicroservicioClientePersona\\MicroservicioClientePersona.csproj|solutionrelative:microservicioclientepersona\\microservicioclientepersona\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE5056C-B3B1-4E3F-BDE0-CF755E5C4790}|MicroservicioClientePersona\\MicroservicioClientePersona\\MicroservicioClientePersona.csproj|c:\\users\\jszaa\\desktop\\devsupruebatecnica\\microservicioclientepersona\\microservicioclientepersona\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE5056C-B3B1-4E3F-BDE0-CF755E5C4790}|MicroservicioClientePersona\\MicroservicioClientePersona\\MicroservicioClientePersona.csproj|solutionrelative:microservicioclientepersona\\microservicioclientepersona\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE5056C-B3B1-4E3F-BDE0-CF755E5C4790}|MicroservicioClientePersona\\MicroservicioClientePersona\\MicroservicioClientePersona.csproj|c:\\users\\jszaa\\desktop\\devsupruebatecnica\\microservicioclientepersona\\microservicioclientepersona\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE5056C-B3B1-4E3F-BDE0-CF755E5C4790}|MicroservicioClientePersona\\MicroservicioClientePersona\\MicroservicioClientePersona.csproj|solutionrelative:microservicioclientepersona\\microservicioclientepersona\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE5056C-B3B1-4E3F-BDE0-CF755E5C4790}|MicroservicioClientePersona\\MicroservicioClientePersona\\MicroservicioClientePersona.csproj|c:\\users\\jszaa\\desktop\\devsupruebatecnica\\microservicioclientepersona\\microservicioclientepersona\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE5056C-B3B1-4E3F-BDE0-CF755E5C4790}|MicroservicioClientePersona\\MicroservicioClientePersona\\MicroservicioClientePersona.csproj|solutionrelative:microservicioclientepersona\\microservicioclientepersona\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\jszaa\\Desktop\\DevsuPruebaTecnica\\MicroservicioClientePersona\\MicroservicioClientePersona\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "MicroservicioClientePersona\\MicroservicioClientePersona\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\jszaa\\Desktop\\DevsuPruebaTecnica\\MicroservicioClientePersona\\MicroservicioClientePersona\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "MicroservicioClientePersona\\MicroservicioClientePersona\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:47:45.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jszaa\\Desktop\\DevsuPruebaTecnica\\MicroservicioClientePersona\\MicroservicioClientePersona\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MicroservicioClientePersona\\MicroservicioClientePersona\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\jszaa\\Desktop\\DevsuPruebaTecnica\\MicroservicioClientePersona\\MicroservicioClientePersona\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MicroservicioClientePersona\\MicroservicioClientePersona\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:46:52.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\jszaa\\Desktop\\DevsuPruebaTecnica\\MicroservicioClientePersona\\MicroservicioClientePersona\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "MicroservicioClientePersona\\MicroservicioClientePersona\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\jszaa\\Desktop\\DevsuPruebaTecnica\\MicroservicioClientePersona\\MicroservicioClientePersona\\Models\\Cliente.cs",
+              "RelativeToolTip": "MicroservicioClientePersona\\MicroservicioClientePersona\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:46:19.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\jszaa\\Desktop\\DevsuPruebaTecnica\\MicroservicioClientePersona\\MicroservicioClientePersona\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "MicroservicioClientePersona\\MicroservicioClientePersona\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\jszaa\\Desktop\\DevsuPruebaTecnica\\MicroservicioClientePersona\\MicroservicioClientePersona\\Models\\Persona.cs",
+              "RelativeToolTip": "MicroservicioClientePersona\\MicroservicioClientePersona\\Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:45:33.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

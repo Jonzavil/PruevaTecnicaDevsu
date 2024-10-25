@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tcl/gTKLTgUYRtFx0vMkaC5C+fPUOJZH9p6Cc8/lqhE=",
+  "Source": "MicroservicioClientePersona",
+  "BasePath": "_content/MicroservicioClientePersona",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
